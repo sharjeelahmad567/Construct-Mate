@@ -1,2 +1,3 @@
 # Construct-Mate
-This is a construction site and labour management app
+This is a construction site and labour management app.
+Now, i connect GitHub with Android Studio.
